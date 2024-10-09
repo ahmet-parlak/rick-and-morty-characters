@@ -36,3 +36,5 @@ Start the development  server:
 ```
 npm run dev
 ```
+## Preview
+<img title="project preview" alt="project preview" src="/preview.png">
