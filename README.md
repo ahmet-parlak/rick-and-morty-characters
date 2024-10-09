@@ -25,7 +25,7 @@ Clone the repository:
 git clone https://github.com/your-username/rick-and-morty-characters.git
 ```
 
-Navigate to the project directory::
+Navigate to the project directory:
 
 ```bash
 cd rick-and-morty-characters
